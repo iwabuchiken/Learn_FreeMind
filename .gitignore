@@ -1,0 +1,11 @@
+*.tds
+*.obj
+*.exe
+*.class
+*.pyc
+*.pyd
+*.etc
+*.zip
+src/freemind/*
+src/org/*
+bin/*
